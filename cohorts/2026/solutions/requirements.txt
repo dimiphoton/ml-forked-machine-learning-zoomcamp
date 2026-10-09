@@ -1,0 +1,10 @@
+# Versions used to replay the 2026 homework.
+# PyTorch wheels come from the CPU index in homework/08-deep-learning/requirements-cpu.txt.
+numpy==2.3.3
+pandas==2.3.2
+scikit-learn==1.7.2
+xgboost==3.2.0
+fastapi==0.119.1
+uvicorn==0.38.0
+onnxruntime==1.23.2
+Pillow==11.3.0
